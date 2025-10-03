@@ -1,0 +1,13 @@
+
+Possíveis perguntas a serem respondidas com o código:
+
+1. Como evoluiu o preço das ações da Yahoo Finance ao longo do tempo?
+2. Quais foram os maiores e menores valores registrados (High e Low) em diferentes períodos?
+3. Qual a tendência de longo prazo do preço médio das ações?
+4. Existe sazonalidade nos preços (variações que se repetem em certos períodos, como meses ou trimestres)?
+5. Qual é a parte aleatória (ruído) da série de preços, que não pode ser explicada por tendência ou sazonalidade?
+6. O modelo SARIMAX consegue prever os preços futuros de forma adequada?
+7. Qual é a acurácia da previsão e qual a faixa de confiança (intervalo predito) para os próximos meses?
+8. Como os volumes de negociação (Volume) se relacionam com as variações de preço?
+9. Existem períodos anômalos em que o comportamento da ação foge do padrão histórico?
+10. Com base na previsão, quais valores futuros podem ser esperados para o preço médio da ação?
